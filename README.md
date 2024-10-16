@@ -6,6 +6,9 @@ I'm a **third-year BTech student** in **Computer Science and Engineering** at **
 ## 🏆 My Badges
 [![holopin badges](https://holopin.me/amoebasingh)](https://holopin.io/@amoebasingh)
 
+## LeetCode Profile
+![Leetcode](https://leetcard.jacoblin.cool/akash_singh_2k3?ext=heatmap)
+
 ## 💡 What I'm Working On
 - 🎉 **Hacktoberfest 2024**: Contributing to open-source repositories and collaborating with the developer community during Hacktoberfest.
 - 🛠 **Anime GAN Project**: Currently working on an anime-related project using **Generative Adversarial Networks (GANs)** to generate creative content.
