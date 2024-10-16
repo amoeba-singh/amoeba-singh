@@ -3,6 +3,9 @@
 ## 🚀 About Me
 I'm a **third-year BTech student** in **Computer Science and Engineering** at **NSUT**, graduating in 2026. I have a strong passion for coding, open-source contributions, and social work. I enjoy working on web and mobile development projects and actively participate in hackathons and community initiatives.
 
+## 🏆 My Badges
+[![holopin badges](https://holopin.me/amoebasingh)](https://holopin.io/@amoebasingh)
+
 ## 💡 What I'm Working On
 - 🎉 **Hacktoberfest 2024**: Contributing to open-source repositories and collaborating with the developer community during Hacktoberfest.
 - 🛠 **Anime GAN Project**: Currently working on an anime-related project using **Generative Adversarial Networks (GANs)** to generate creative content.
