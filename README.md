@@ -1,7 +1,7 @@
 # Hi, I'm Akash Singh! 👋
 
 ## About Me
-Hi! I'm a final-year Computer Science and Engineering student at **NSUT** (Batch of 2026), currently interning at **Morgan Stanley** as a Technology Analyst. I’m passionate about building web and mobile applications, contributing to open source, and using technology to create social impact.
+Hi! I'm a final-year Computer Science and Engineering student at **NSUT** (Batch of 2026), a former intern at **Morgan Stanley** as a Technology Analyst. I’m passionate about building web and mobile applications, contributing to open source, and using technology to create social impact.
 
 Over the past few years, I’ve actively participated in hackathons: **winning 2** and becoming a finalist in 3, which has helped me grow as a developer and team player. I’ve also contributed to open source through **Hacktoberfest 2024** and enjoy being part of the global developer community.. I love exploring new tools, collaborating with like-minded peers, and turning ideas into meaningful projects.
 
